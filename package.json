@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/refreshmedia/eslint-config-refresh.git"
+    "url": "git+https://github.com/refreshmedia/eslint-config-refresh-talleyfarms.git"
   },
   "author": "Tyler Smith <tyler@refreshmedia.com> (http://refreshmedia.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/refreshmedia/eslint-config-refresh/issues"
+    "url": "https://github.com/refreshmedia/eslint-config-refresh-talleyfarms/issues"
   },
-  "homepage": "https://github.com/refreshmedia/eslint-config-refresh#readme",
+  "homepage": "https://github.com/refreshmedia/eslint-config-refresh-talleyfarms#readme",
   "dependencies": {
     "eslint-config-standard": "^14.1.1",
     "eslint-config-standard-react": "^9.2.0",
